@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    max-width: 300px;
+}
+.bookmark {
+    margin-bottom: 10px;
+}
+.bookmark p {
+    margin: 0;
+    font-weight: bold;
+}
+.bookmark a {
+    color: #1a73e8;
+    text-decoration: none;
+}
